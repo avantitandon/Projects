@@ -1,0 +1,18 @@
+All the riddles used in our game. Note everytime you go to the Health Sciences building in our game you will be randomly asked one of these 8 riddles.
+
+1.If you multiply this number by any other number, the answer will always be the same. What number is this?
+Answer: 0
+2.I am an odd number. Take away a letter and I become even. What number am I?
+Answer: 7
+3.Pronounced as 1 letter, And written with 3, 2 letters there are, and 2 only in me. I’m double, I’m single, I’m black blue, and gray, I’m read from both ends, and the same either way. What am I?
+Answer: Eye
+4.Pauls height is six feet, he is an assistant at a butchers shop, and wears size 9 shoes. What does he weigh?
+Answer: Meat
+5.What can go through glass without breaking it?
+Answer: Light
+6.What is always on its way but never arrives?
+Answer: Tomorrow
+7.What do you buy to eat but never consume?
+Answer: Cutlery
+8.Rachel goes to the supermarket and buys 10 tomatoes. Unfortunately, on the way back home, all but 9 get ruined. How many tomatoes are left in a good condition?
+Answer: 9

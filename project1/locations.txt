@@ -1,0 +1,17 @@
+LOCATION $ -1 $ That way is blocked. $ That way is blocked. $ END $ $
+LOCATION-Robarts $ 1 $ You are on the first floor of the Robarts Library. $  There is an empty study room to the South, an exit from the library to the East. You are on the first floor of the Robarts Library. It's usually crowded at this time of the day, but today it's eerily quiet. Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands near theservice desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to the East.  $ END $
+LOCATION-Study Room $ 2 $ This study room is completely empty. $ You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out, the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this space? $ END
+LOCATION-Outside Robarts $ 3 $ You are outside the Robarts library. $ You are outside the Robarts library on a crowded street. There is a smell of coffee in the air. $ END
+LOCATION-Queens Park $ 4 $ You are at Queens Park. $  You are at Queens Park. You bump into strangers practicing martial arts. $ END.
+LOCATION-Woodsworth College $ 5 $ You are at Woodsworth college. $ You walk in to Kruger Hall. You see Tara getting yelled at by the Woodsworth president. You are are at Woodsworth College. $ END
+LOCATION-Sidney Smith $ 6 $ You are at Sidney Smith. You see the food trucks outside. $ You are at Sidney Smith. You want to get coffee but you are running out of time. $ END
+LOCATION-Math Learning Centre $ 7 $ You are at the MLC. $ You walk into a burning hot room. The room is flooded with MAT137 students. Try not to slip on their tears. You are at the MLC. $ END.
+LOCATION-The Great Outdoors $ 8 $ You are outside. $ Snow is falling. The temperature is dropping. You are outside. $ END
+LOCATION-Myhal Building $ 9 $ You are at the Myhal Building. $ You are at the Myhal Building. You see engineering students look upset. They had a test this morning. $ END
+LOCATION-Bahen $ 10 $ You are at Bahen. $ You walk in and say hi to Ali the legendary TA. He gives you words of wisdom for your exam. You also notice how every CS student here is better than Waterloo's CS students. You are at Bahen. $ END
+LOCATION-Convocation Hall $ 11 $ You are at Convocation Hall. $ You walk into a massive hall. There is an AI lecture going in. You are at Convocatin Hall. $ END
+LOCATION-King's College Circle $ 12 $ You are at King's College Circle. $ You walk in a circle and realise its King's College Circle. $ END
+LOCATION-University College $ 13 $ You are at University College. $ You walk into Hogwarts but oh wait no... It's Univesity College!!! $ END
+LOCATION-Hart House $ 14 $ You are at Hart House. $ You hear the piano playing. It sooths your nerves until you realise you have an exam soon. $ END
+LOCATION-Health Science Building $ 15 $ You are at the Health Science Building. $ Sadia waves at you and shows you photos of her pets. You are in your CS lecture hall in the HS building. $ END
+LOCATION-Exam Centre $ 16 $ You are at the exam centre. $ You have reached your destination $ END

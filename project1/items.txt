@@ -1,0 +1,6 @@
+CheatSheet 2 16 5
+MagicPen 9 16 10
+TCard 3 16 15
+WaterBottle 6 16 5
+Phone 11 16 5
+ScrapPaper 5 16 0
